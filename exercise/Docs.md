@@ -4,4 +4,6 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 This is some new line
 
-The toothbrush requires shit
+The toothbrush requires toothpaste
+
+Some new shit
